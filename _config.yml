@@ -76,10 +76,10 @@ author:
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 80%
+      percentage: 70%
     - skill4:
       name: AngularJS
-      percentage: 80%
+      percentage: 70%
     - skill5:
       name: Java/Java EE
       percentage: 90%
