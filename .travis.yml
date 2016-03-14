@@ -1,14 +1,5 @@
-language: node_js
-node_js:
-  - 0.10
-
-env:
-  matrix:
-    - ruby=1.9.3
-    - ruby=2.0.0-p353
-
-before_script:
-  - rvm install ruby $ruby
-  - rvm use $ruby
-  - ruby -v
-  - gem install jekyll
+language: ruby
+rvm:
+  - 2.1
+install: gem install jekyll -v 2.4.0
+script: jekyll build
