@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: CV/Resume: Tudor Saitoc
+description: History, experience, skills, and more
 favicon: /resumecard/assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://cv.tudr.co
+url: https://cv.tudr.co
 rss_url: /resumecard/pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,17 +14,17 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Tudor Saitoc
+  title: Founder
+  address: NYC
+  email: tudor@saitoc.me
+  link: http://tudr.co
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: tudr
+  linkedin: tudornyc
+  twitter: tudorsnyc
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
+  stackoverflow: tudr
 #  stackoverflow: 4582127
   workHistory:
     - work1:
