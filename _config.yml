@@ -2,28 +2,29 @@
 title: CV/Resume Tudor Saitoc
 description: History, experience, skills, and more
 favicon: /assets/img/avatar.JPG
-baseurl: /
-url: https://cv.tudr.co
-rss_url: /pages/atom.xml
-google_analytics:
+baseurl: ""
+#url: https://cv.tudr.co
+#rss_url: /pages/atom.xml
+#google_analytics:
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 exclude: [vendor]
 
 # Author settings
 author:
   name: Tudor Saitoc
-  title: Founder
+#  title: Founder
   address: NYC
   email: tudor@saitoc.me
   link: http://tudr.co
-  weibo:
+#  weibo:
   github: tudr
   linkedin: tudornyc
   twitter: tudorsnyc
-  gavatar: /resumecard/assets/img/avatar.JPG
+#  gavatar: assets/img/avatar.JPG
   stackoverflow: tudr
 #  stackoverflow: 4582127
   workHistory:
