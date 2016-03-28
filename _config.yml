@@ -1,10 +1,10 @@
 # Site settings
 title: CV/Resume Tudor Saitoc
 description: History, experience, skills, and more
-favicon: /resumecard/assets/img/avatar.JPG
-baseurl: https://cv.tudr.co
+favicon: /assets/img/avatar.JPG
+baseurl: /
 url: https://cv.tudr.co
-rss_url: /resumecard/pages/atom.xml
+rss_url: /pages/atom.xml
 google_analytics:
 
 # Build settings
