@@ -5,7 +5,7 @@ favicon: /resumecard/assets/img/avatar.JPG
 baseurl: https://cv.tudr.co
 url: https://cv.tudr.co
 rss_url: /resumecard/pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics:
 
 # Build settings
 markdown: kramdown
